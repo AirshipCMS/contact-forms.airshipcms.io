@@ -1,5 +1,5 @@
 # Airship CMS Forms
-Download the repository files at [https://github.com/AirshipCMS/endtoend.airshipcms.io](https://github.com/AirshipCMS/endtoend.airshipcms.io). See an example of the live form at [https://endtoend.airshipcms.io/contact](https://endtoend.airshipcms.io/contact).
+Download the repository files at [https://github.com/AirshipCMS/contact-forms.airshipcms.io](https://github.com/AirshipCMS/contact-forms.airshipcms.io). See an example of the live form at [https://contact-forms.airshipcms.io](https://contact-forms.airshipcms.io).
 
 ---
 
