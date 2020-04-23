@@ -108,7 +108,8 @@ function submit() {
     url: "/api/aerostats",
     method: "POST",
     headers: {
-      "Content-Type": "application/json"
+      "Content-Type": "application/json",
+      'X-XSRF-TOKEN': document.cookie.replace(/(?:(?:^|.*;\s*)XSRF-TOKEN\s*\=\s*([^;]*).*$)|^.*$/, "$1")
     },
     data: JSON.stringify(payload),
     success: function() {
