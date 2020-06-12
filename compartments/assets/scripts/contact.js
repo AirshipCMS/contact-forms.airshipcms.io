@@ -4,7 +4,7 @@ function getCollection() {
   // GET api/aerostat_collections/{id} to pull from desired collection
   // Contact Form Example's ID is 342
   $.ajax({
-    url: "/api/aerostat_collections/378",
+    url: "/api/aerostat_collections/g6P",
     method: "GET",
     success: function(data) {
       collection = data;
